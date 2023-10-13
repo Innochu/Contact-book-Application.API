@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fojOPWz5oOMJKPxCAtEzrhdPrQK7vjPo93vkYHFolCM=",
+  "Source": "ContactBook.API",
+  "BasePath": "_content/ContactBook.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
